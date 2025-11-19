@@ -22,7 +22,7 @@ El objetivo de este trabajo práctico es que el alumno obtenga datos de la **Alt
 
 ---
 
-## 🛠️ Material Adicional de Ejercitación Práctica
+##  Material Adicional de Ejercitación Práctica
 
 Se presentan tres ejercicios adicionales diseñados para complementar el TP09 y reforzar las habilidades en el manejo y la selección de datos de altimetría y boyas derivantes.
 
@@ -83,5 +83,6 @@ Si tiene Git instalado, puede clonar el repositorio y mantenerlo actualizado fá
     git pull
 
     ```
+
 
 
