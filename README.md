@@ -9,7 +9,7 @@
 
 ##  Objetivo Principal del Trabajo Práctico
 
-El objetivo de este trabajo práctico es que el alumno obtenga datos de la **Altura del Nivel del Mar** (SSH/SLA) y de las **Velocidades Geostróficas** asociadas, y los compare con la trayectoria real de una **boya derivante** (Drifter) a elección.
+El objetivo de este trabajo práctico es que el alumno obtenga datos de la **Altura del Nivel del Mar** y de las **Velocidades Geostróficas** asociadas, y los compare con la trayectoria real de una **boya derivante** (Drifter) a elección.
 
 ##  Contenido del Repositorio
 
@@ -83,4 +83,5 @@ Si tiene Git instalado, puede clonar el repositorio y mantenerlo actualizado fá
     git pull
 
     ```
+
 
