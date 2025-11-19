@@ -2,7 +2,8 @@
 
 ##  Materia: Oceanografía Satelital / Teledetección Satelital y Aplicaciones Oceanográficas
 **Cuatrimestre:** 2do Cuatrimestre 2025
-**Unidad Temática:** Altimetría Satelital
+**Unidad Temática:** Topografía superficial del mar. Circulación oceánica
+
 
 ---
 
@@ -82,3 +83,4 @@ Si tiene Git instalado, puede clonar el repositorio y mantenerlo actualizado fá
     git pull
 
     ```
+
